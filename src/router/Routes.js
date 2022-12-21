@@ -1,0 +1,9 @@
+export const ROUTE_DASHBOARD = "/";
+export const ROUTE_UNITE = '/unite';
+export const ROUTE_EMPLOYEE = '/employee';
+export const ROUTE_CONGEVALIDE = '/congevalide';
+export const ROUTE_CONGENONVALIDE = '/congenonvalide';
+export const ROUTE_POINTAGE = '/pointage';
+export const ROUTE_FONCTION = '/fonction';
+export const ROUTE_JOURFERIE = '/jourferie';
+export const ROUTE_CONGEDEMANDE= '/congedemande';
